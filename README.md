@@ -25,7 +25,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youngsoo23&repo=gitYoung)](https://github.com/youngsoo23/gitYoung)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youngsoo23&repo=github-readme-stats)](https://github.com/youngsoo23/gitYoung)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youngsoo23&repo=gitYoung)](https://github.com/youngsoo23/gitYoung)
 
 		
 </div>
