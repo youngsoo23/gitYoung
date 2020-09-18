@@ -25,7 +25,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youngsoo23&repo=gitYoung)](https://github.com/youngsoo23/gitYoung)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hodoolabs&repo=GSP-V2-backoffice)](https://github.com/hodoolabs/GSP-V2-backoffice)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youngsoo23&repo=hodoolabs/GSP-V2-backoffice)](https://github.com/hodoolabs/GSP-V2-backoffice)
 
 		
 </div>
