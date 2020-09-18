@@ -13,5 +13,4 @@
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oh.youngsoo23@gmail.com)](mailto:oh.youngsoo23@gmail.com)
 		
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://github.com/youngsoo23/)](https://github.com/youngsoo23/)
 </div>
