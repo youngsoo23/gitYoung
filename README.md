@@ -13,16 +13,16 @@
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oh.youngsoo23@gmail.com)](mailto:oh.youngsoo23@gmail.com)
   
-[![young's github stats](https://gitYoung.vercel.app/api?username=youngsoo23)](https://github.com/youngsoo23/gitYoung)
+[![young's github stats](https://github-readme-stats.vercel.app/api?username=youngsoo23)](https://github.com/youngsoo23/gitYoung)
 
-![young's github stats](https://gitYoung.vercel.app/api?username=youngsoo23&hide=contribs,prs)
+![young's github stats](https://github-readme-stats.vercel.app/api?username=youngsoo23&hide=contribs,prs)
 
-![young's github stats](https://gitYoung.vercel.app/api?username=youngsoo23&count_private=true)
+![young's github stats](https://github-readme-stats.vercel.app/api?username=youngsoo23&count_private=true)
 
-![young's github stats](https://gitYoung.vercel.app/api?username=youngsoo23&show_icons=true)
+![young's github stats](https://github-readme-stats.vercel.app/api?username=youngsoo23&show_icons=true)
 
-![young's github stats](https://gitYoung.vercel.app/api?username=youngsoo23&show_icons=true&theme=radical)
+![young's github stats](https://github-readme-stats.vercel.app/api?username=youngsoo23&show_icons=true&theme=radical)
 
-[![ReadMe Card](https://gitYoung.vercel.app/api/pin/?username=youngsoo23&repo=gitYoung)](https://github.com/youngsoo23/gitYoung)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youngsoo23&repo=gitYoung)](https://github.com/youngsoo23/gitYoung)
 		
 </div>
